@@ -7,10 +7,8 @@ Ich bin Antonio, ein Systemintegrator mit einer starken Leidenschaft für die Au
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Ich arbeite gerade
-- 🤔 Ich suche Hilfe bei Outstanding Video Ideen.
-- 📫 So erreichen Sie mich: ctoni030@proton.me.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
+- 🔭 Ich arbeite gerade an einer Rollladensteuerung 
+- 🤔 Ich suche Hilfe bei:
 - ⚡ Fun Fact: Ich gehe sehr oft ins GYM.
 
 #### Top Technologies
