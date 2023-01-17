@@ -3,7 +3,7 @@
 Ich bin Antonio, ein angehender Systemintegrator mit einer starken Leidenschaft für die Automatisierung von Zuhause. Ich habe mich auf die Verwendung von Tools wie Home Assistant und ESPHome Fokussiert, um meine Projekte an einem zentralen Ort zu verwalten und zu steuern. 
 
 
-[![Twitter Badge](https://img.shields.io/badge/Antonio-style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/locoo.030)](https://twitter.com/locoo.030) [![Mail Badge](https://img.shields.io/badge/locoo.030-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/ctoni030@proton.me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/locoo.030-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/locoo.030) [![Mail Badge](https://img.shields.io/badge/ctoni030@proton.me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
 <!-- TODO: Add last video link -->
 
