@@ -7,7 +7,7 @@ Ich bin Antonio, ein Systemintegrator mit einer starken Leidenschaft für die Au
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Ich arbeite gerade an einer Rollladensteuerung 
+- 🔭 Ich arbeite gerade an einer Rollosteuerung 
 - 🤔 Ich suche Hilfe bei:
 - ⚡ Fun Fact: Ich gehe sehr oft ins GYM.
 
