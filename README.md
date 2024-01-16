@@ -1,20 +1,20 @@
 ## Hi, ich bin Antonio <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Ich bin Antonio, ein Systemintegrator mit einer starken Leidenschaft für die Automatisierung von Zuhause. Ich habe mich auf die Verwendung von Tools wie Home Assistant und ESPHome Fokussiert, um meine Projekte an einem zentralen Ort zu verwalten und zu steuern. 
+Ich bin Antonio, ein Systemintegrator
 
 
-[![Mail Badge](https://img.shields.io/badge/locoo.030-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/locoo.030) [![Mail Badge](https://img.shields.io/badge/ctoni030@proton.me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ctoni030@proton.me)
+[![Mail Badge](https://img.shields.io/badge/locoo.030-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/locoo.030) [![Mail Badge](https://img.shields.io/badge/acea-ruiz@hotmail.de-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:acea-ruiz@hotmail.de)
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Ich arbeite gerade an einer Rollosteuerung 
-- 🤔 Ich suche Hilfe bei:
-- ⚡ Fun Fact: Ich gehe sehr oft ins GYM.
+- 🔭 Ich arbeite gerade an einem Telegram bot für Zählerstand erfassung.
+- 🤔 Ich suche Hilfe bei:Smart Meter AI
+- ⚡ Fun Fact: Ich gehe sehr oft ins GYM 😉.
 
 ### Tutorials
 
 #### Bizness
-- :email: ctoni030@proton.me
+- :email: acea-ruiz@hotmail.de
 
 
 #### Profile Besucher 
