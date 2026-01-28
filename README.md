@@ -1,37 +1,33 @@
-## Hi, ich bin Antonio <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+# Hi, ich bin <DEIN NAME> 👋
 
-Ich bin Antonio, ein Systemintegrator
+**Fachinformatiker für Systemintegration** | Automatisierung | Infrastruktur | Security-Basics
 
+Ich veröffentliche hier **praxisorientierte Projekte**, die sich gut zum **Weiterbauen** eignen – klar strukturiert, dokumentiert und mit Fokus auf Nutzwert.
 
-[![Mail Badge](https://img.shields.io/badge/locoo.030-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/locoo.030) [![Mail Badge](https://img.shields.io/badge/acea-ruiz@hotmail.de-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:acea-ruiz@hotmail.de)
+## 🔧 Schwerpunkte
+- Systemintegration & Betrieb (Windows/Linux)
+- Automatisierung (Skripting, Provisioning, CI/CD-nahe Workflows)
+- Monitoring/Logging & Troubleshooting
+- Hardening / Security-Grundlagen
 
-<!-- TODO: Add last video link -->
+## 🚀 Public Projects (zum Mitmachen)
+- **<Projekt 1>** – <1 Satz Nutzen/Outcome>
+- **<Projekt 2>** – <1 Satz Nutzen/Outcome>
+- **<Projekt 3>** – <1 Satz Nutzen/Outcome>
 
-- 🔭 Ich arbeite gerade an einem Telegram bot für Zählerstand erfassung.
-- 🤔 Ich suche Hilfe bei:Smart Meter AI
-- ⚡ Fun Fact: Ich gehe sehr oft ins GYM 😉.
+> Wenn du was suchst, das du direkt verbessern kannst: Schau in die Issues / Roadmaps der Repos.
 
-### Tutorials
+## 🔒 Private Repos (auf Anfrage)
+Einige **fortgeschrittene / produktionsnahe** Themen liegen in privaten Repositories (z. B. Kunden-/Lab-Setups, größere Toolchains, interne Automations-Stacks).  
+**Zugriff** gibt’s nach kurzer Abstimmung – ideal für:
+- Zusammenarbeit an Features
+- Code-Review / Pairing
+- Integration in bestehende Umgebungen
 
-#### Bizness
-- :email: acea-ruiz@hotmail.de
+## 🤝 Zusammenarbeit
+- PRs willkommen (bitte kurz Issue/Context dazu)
+- Saubere Commits, klare Ziele, reproduzierbare Schritte
 
-
-#### Profile Besucher 
-
-![visitor](https://visitor-badge.glitch.me/badge?page_id=antonio-030.antonio-030)
-
-<details>
-<summary>
-  Mehr über mich
-</summary>
-
-<br >
-
-Ich Liebe Essen :)
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
-
+## 📫 Kontakt
+- GitHub: <LINK>
+- E-Mail/LinkedIn: <LINK>
